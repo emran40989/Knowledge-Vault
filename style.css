@@ -44,6 +44,10 @@ button{
     cursor: pointer;
 }
 
+button:hover{
+    background-color: #64d88d;
+}
+
 .banner{
     display: flex;
     flex-direction: column;
